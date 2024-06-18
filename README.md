@@ -1,4 +1,7 @@
 # Mental-Health-Website
+
+Figma link: https://www.figma.com/design/J1PesXGz2rwyxJnmxDBN6C/Mental-Health-website?node-id=0-1&t=k0Zcv3v5kU4fcWgM-1
+
 An UI/UX project for a mental health website that i made from scratch without using any tutorials.
 
 - It has several components like an A.I chatbot, mood tracker, a well-being community chat group.
